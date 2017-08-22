@@ -1,8 +1,8 @@
 +++
-title = "About"
+title = "बारे में"
 date = "2014-04-09"
 sidemenu = "true"
-description = "About me and this site"
+description = "मेरे बारे में और इस साइट के बारे में"
 +++
 
 ह्यूगो एक स्थिर साइट इंजन है जिसे गो में लिखा गया है

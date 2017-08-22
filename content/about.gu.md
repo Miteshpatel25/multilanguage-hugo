@@ -1,8 +1,8 @@
 +++
-title = "About"
+title = "વિશે"
 date = "2014-04-09"
 sidemenu = "true"
-description = "About me and this site"
+description = "મારા વિશે અને આ સાઇટ વિશે"
 +++
 
 હ્યુગો ગોમાં લિખિત સ્થિર સાઇટ એન્જિન છે.

@@ -1,15 +1,15 @@
 +++
-title = "Contact"
+title = "संपर्क करें"
 date = "2014-04-09"
 sidemenu = "true"
-description = "How to contact me"
+description = "मुझे कैसे संपर्क करें"
 +++
 
 <form class="pure-form pure-form-stacked">
   <fieldset>
     <div class="pure-g">
       <div class="pure-u-1 pure-u-md-1-3">
-        <label for="first-name">First Name</label>
+        <label for="first-name">पहला नाम</label>
         <input id="first-name" class="pure-u-23-24" type="text">
       </div>
 
