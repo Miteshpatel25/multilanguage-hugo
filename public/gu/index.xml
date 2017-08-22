@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blackburn Theme Demo</title>
+    <link>https://www.example.com/gu/</link>
+    <description>Recent content on Blackburn Theme Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Alle Rechte vorbehalten.</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/gu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.example.com/gu/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/gu/about/</guid>
+      <description>હ્યુગો ગોમાં લિખિત સ્થિર સાઇટ એન્જિન છે.
+તે વિવિધ ખુલ્લા સ્ત્રોત પ્રોજેક્ટ્સનો ઉપયોગ કરે છે જેમાં નીચેનાનો સમાવેશ થાય છે:
+ કોબ્રા વાઇપર જે વોલ્ટર વેધરમેન કાસ્ટ  વધુ જાણો અને GitHub પર યોગદાન આપો.
+સ્થાપના હ્યુગો વિશે કેટલીક મજા હકીકતો:
+ બિલ્ટ ગો ઢીલી રીતે [જેકિલ] દ્વારા પ્રેરિત (http://jekyllrb.com/) મુખ્યત્વે spf13 દ્વારા મેનહટનમાં મુસાફરી કરતી ટ્રેન દ્વારા વિકસાવવામાં આવી છે. Spf13-vim નો ઉપયોગ કરીને વીમ માં કોડેડ  પ્રશ્નો અથવા સૂચનો છે?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.example.com/gu/contact/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/gu/contact/</guid>
+      <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
+    </item>
+    
+  </channel>
+</rss>

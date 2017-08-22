@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+  <h1>{{ .Title }}</h1>
+  <h2>{{ .Description }}</h2>
+</div>
+<div class="content">
+    {{ if .IsTranslated }}
+              &middot; {{ i18n "translations" }}
+              {{ range .Translations }}
+                  {{ $curLang := index (where $.Site.Languages "Lang" .Lang) 0 }}
+                  <a href="{{ .Permalink }}">{{ $curLang.LanguageName }}</a>
+              {{ end }}
+    {{ end }}
+
+  {{ .Content }}
+</div>
+
+{{ partial "footer.html" . }}

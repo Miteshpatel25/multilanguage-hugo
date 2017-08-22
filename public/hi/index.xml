@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blackburn Theme Demo</title>
+    <link>https://www.example.com/hi/</link>
+    <description>Recent content on Blackburn Theme Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Alle Rechte vorbehalten.</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/hi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.example.com/hi/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/hi/about/</guid>
+      <description>ह्यूगो एक स्थिर साइट इंजन है जिसे गो में लिखा गया है
+यह विभिन्न प्रकार के ओपन सोर्स परियोजनाओं का उपयोग करता है जिसमें निम्न शामिल हैं:
+ कोबरा वाइपर जे वाल्टर वेल्डरमैन कास्ट  अधिक जानें और गीथहब पर योगदान करें।
+सेट अप [ह्यूगो] के बारे में कुछ मजेदार तथ्यों (http://gohugo.io/):
+ में निर्मित जाओ ढीला से प्रेरित जैकाइल मुख्य रूप से मैनहट्टन से और आने से ट्रेन पर spf13 द्वारा विकसित। Spf13-vim का उपयोग करते हुए विम में कोडित  प्रश्न या सुझाव हैं?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.example.com/hi/contact/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/hi/contact/</guid>
+      <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
+    </item>
+    
+  </channel>
+</rss>
